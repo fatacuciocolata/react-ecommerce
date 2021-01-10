@@ -1,0 +1,25 @@
+.box {
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+  -webkit-box-flex: 200px;
+      -ms-flex: 200px;
+          flex: 200px;
+  padding: 10px;
+  text-align: center;
+  width: 200px;
+}
+
+.box h3 {
+  font-size: 13px;
+}
+
+.box h3 a {
+  color: black;
+  text-decoration: none;
+  font-size: 15px;
+}
+
+.box .image img {
+  width: 100%;
+}
+/*# sourceMappingURL=Product.css.map */

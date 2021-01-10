@@ -1,0 +1,22 @@
+.wrap {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+
+.wrap .left {
+  width: 50%;
+}
+
+.wrap .left .img img {
+  width: 100%;
+}
+
+.wrap .right {
+  width: 50%;
+  text-align: left;
+}
+/*# sourceMappingURL=Product.css.map */

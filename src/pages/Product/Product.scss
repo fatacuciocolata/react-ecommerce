@@ -1,0 +1,14 @@
+.wrap {
+  display: flex;
+  justify-content: space-between;
+  .left {
+    width: 50%;
+    .img img {
+      width: 100%;
+    }
+  }
+  .right {
+    width: 50%;
+    text-align: left;
+  }
+}

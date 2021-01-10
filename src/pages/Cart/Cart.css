@@ -1,0 +1,27 @@
+table {
+  margin-top: 20px;
+  width: 100%;
+}
+
+table th {
+  text-align: left;
+  background: #eee;
+  padding: 10px;
+}
+
+table td {
+  border: 1px solid #eee;
+}
+
+table td.img {
+  width: 10%;
+}
+
+table td.img img {
+  width: 100%;
+}
+
+table td.qty {
+  text-align: center;
+}
+/*# sourceMappingURL=Cart.css.map */

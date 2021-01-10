@@ -1,0 +1,21 @@
+table {
+  th {
+    text-align: left;
+    background: #eee;
+    padding: 10px;
+  }
+  td {
+    border: 1px solid #eee;
+    &.img {
+      width: 10%;
+    }
+    &.img img {
+      width: 100%;
+    }
+    &.qty {
+      text-align: center;
+    }
+  }
+  margin-top: 20px;
+  width: 100%;
+}

@@ -1,0 +1,21 @@
+body {
+  background-color: red !important;
+}
+
+.container {
+  width: 1000px;
+  margin: 0 auto;
+}
+
+.btn {
+  border: 0;
+  padding: 10px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.btn-primary {
+  margin-top: 10px;
+  background: #f0f0f0;
+}
+/*# sourceMappingURL=App.css.map */

@@ -1,0 +1,19 @@
+.topbar {
+  background: #1579ee;
+  padding: 20px 10px;
+  a {
+    color: #fff;
+    text-decoration: none;
+    font-weight: bold;
+  }
+}
+ul {
+  width: 1000px;
+  margin: 0 auto;
+  padding: 0;
+  display: flex;
+  justify-content: space-between;
+  li {
+    list-style-type: none;
+  }
+}
